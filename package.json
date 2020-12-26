@@ -1,0 +1,11 @@
+{
+  "name": "POP-Cat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/noeulnight/POP-Cat.git",
+  "author": "NoeulNight <noeulnight.mail@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
